@@ -1,0 +1,38 @@
+h1 {
+  color: darkturquoise;
+}
+
+h1 {
+  padding: 40px 0 0 0;
+  text-align: center;
+}
+
+.topics {
+  list-style: none;
+}
+
+.topic {
+  margin: 5px 10px;
+  display: inline-block;
+}
+
+p img {
+  width: 80%;
+}
+
+.image-map, #web-nav-img {
+  width: 100%;
+}
+
+body {
+  padding-top: 40px;
+}
+
+area {
+  border: none;
+}
+
+#web-nav-img {
+  padding-bottom: 40px;
+}
+
