@@ -1,6 +1,6 @@
 # HTML (Hypertext Markup Language)
 
-HTML, or Hypertext Markup Language, is the language we use to specify the structure of our document. It is composed of a series of tags that form elements. Furthermore, it's the first document the browser renders when making a request from a server. It's like walking up to a file cabinet and grabbing a folder, and the structure being the folder is the html, and inside the structure, or foundation houses the cascading style sheets known as styles, the javascript, which allows the website to be dynamic, and interactive, though in the following lessons, css, and javascript are discussed. Until then, buckle up, and prepare to be informed, forming your mind all things html.
+HTML, or Hypertext Markup Language, is the language we use to specify the structure of our document. It is composed of a series of tags that form elements. Furthermore, it's the first document the browser renders when making a request from a server. It's like walking up to a file cabinet and grabbing a folder, and the structure being the folder is the html, and inside the structure, or foundation, houses the cascading style sheets known as styles, the javascript, which allows the website to be dynamic, and interactive, though in the following lessons, css, and javascript are discussed. Until then, buckle up, and prepare to be informed, forming your mind all things html.
 
 
 ![html to layout](/img/html.gif)
